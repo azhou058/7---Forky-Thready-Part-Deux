@@ -1,0 +1,212 @@
+Pattern 1 - Run 1
+** Pattern 1: creating 5 threads
+Parent: created child 0 (id 6130921472)
+Process 0 created (id 6130921472) and will sleep for 5 seconds
+Parent: created child 1 (id 6131494912)
+Process 1 created (id 6131494912) and will sleep for 8 seconds
+Parent: created child 3 (id 6132641792)
+Process 3 created (id 6132641792) and will sleep for 6 seconds
+Parent: created child 2 (id 6132068352)
+Process 2 created (id 6132068352) and will sleep for 4 seconds
+Parent: created child 4 (id 6133215232)
+Process 4 created (id 6133215232) and will sleep for 2 seconds
+** Pattern 1: All threads created
+Thread 4 (id 6133215232): exiting
+Thread 2 (id 6132068352): exiting
+Thread 0 (id 6130921472): exiting
+Thread 3 (id 6132641792): exiting
+Thread 1 (id 6131494912): exiting
+** Pattern 1: All threads have exited
+--------------------------------
+Pattern 1 - Run 2
+** Pattern 1: creating 10 threads
+Parent: created child 0 (id 6124597248)
+Process 0 created (id 6124597248) and will sleep for 2 seconds
+Parent: created child 1 (id 6125170688)
+Process 1 created (id 6125170688) and will sleep for 7 seconds
+Parent: created child 2 (id 6125744128)
+Process 2 created (id 6125744128) and will sleep for 3 seconds
+Parent: created child 3 (id 6126317568)
+Process 3 created (id 6126317568) and will sleep for 5 seconds
+Parent: created child 4 (id 6126891008)
+Process 4 created (id 6126891008) and will sleep for 1 seconds
+Parent: created child 5 (id 6127464448)
+Process 5 created (id 6127464448) and will sleep for 4 seconds
+Parent: created child 6 (id 6128037888)
+Process 6 created (id 6128037888) and will sleep for 3 seconds
+Parent: created child 7 (id 6128611328)
+Process 7 created (id 6128611328) and will sleep for 6 seconds
+Parent: created child 8 (id 6129184768)
+Process 8 created (id 6129184768) and will sleep for 2 seconds
+Parent: created child 9 (id 6129758208)
+Process 9 created (id 6129758208) and will sleep for 3 seconds
+** Pattern 1: All threads created
+Thread 4 (id 6126891008): exiting
+Thread 0 (id 6124597248): exiting
+Thread 8 (id 6129184768): exiting
+Thread 2 (id 6125744128): exiting
+Thread 6 (id 6128037888): exiting
+Thread 9 (id 6129758208): exiting
+Thread 5 (id 6127464448): exiting
+Thread 3 (id 6126317568): exiting
+Thread 7 (id 6128611328): exiting
+Thread 1 (id 6125170688): exiting
+** Pattern 1: All threads have exited
+--------------------------------
+Pattern 1 - Run 3
+** Pattern 1: creating 15 threads
+Parent: created child 0 (id 6155792384)
+Process 0 created (id 6155792384) and will sleep for 6 seconds
+Parent: created child 1 (id 6156365824)
+Process 1 created (id 6156365824) and will sleep for 3 seconds
+Parent: created child 3 (id 6157512704)
+Process 3 created (id 6157512704) and will sleep for 2 seconds
+Parent: created child 4 (id 6158086144)
+Process 4 created (id 6158086144) and will sleep for 6 seconds
+Parent: created child 2 (id 6156939264)
+Process 2 created (id 6156939264) and will sleep for 7 seconds
+Parent: created child 6 (id 6159233024)
+Process 6 created (id 6159233024) and will sleep for 7 seconds
+Parent: created child 5 (id 6158659584)
+Process 5 created (id 6158659584) and will sleep for 1 seconds
+Parent: created child 7 (id 6159806464)
+Process 7 created (id 6159806464) and will sleep for 3 seconds
+Parent: created child 9 (id 6160953344)
+Process 9 created (id 6160953344) and will sleep for 8 seconds
+Parent: created child 10 (id 6161526784)
+Process 10 created (id 6161526784) and will sleep for 5 seconds
+Parent: created child 12 (id 6162673664)
+Process 12 created (id 6162673664) and will sleep for 6 seconds
+Parent: created child 13 (id 6163247104)
+Process 13 created (id 6163247104) Parent: created child 11 (id 6162100224)
+Process 11 created (id 6162100224) and will sleep for 2 seconds
+Parent: created child 8 (id 6160379904)
+Process 8 created (id 6160379904) and will sleep for 7 seconds
+Parent: created child 14 (id 6163820544)
+and will sleep for 1 seconds
+Process 14 created (id 6163820544) ** Pattern 1: All threads created
+and will sleep for 3 seconds
+Thread 5 (id 6158659584): exiting
+Thread 13 (id 6163247104): exiting
+Thread 3 (id 6157512704): exiting
+Thread 11 (id 6162100224): exiting
+Thread 1 (id 6156365824): exiting
+Thread 7 (id 6159806464): exiting
+Thread 14 (id 6163820544): exiting
+Thread 10 (id 6161526784): exiting
+Thread 0 (id 6155792384): exiting
+Thread 4 (id 6158086144): exiting
+Thread 12 (id 6162673664): exiting
+Thread 8 (id 6160379904): exiting
+Thread 2 (id 6156939264): exiting
+Thread 6 (id 6159233024): exiting
+Thread 9 (id 6160953344): exiting
+** Pattern 1: All threads have exited
+--------------------------------
+--------------------------------
+--------------------------------
+Pattern 2 - Run 1
+** Pattern 2: creating 5 threads
+Parent: created thread 0
+Thread 0 (id 6134886400) starting
+Thread 0 (id 6134886400) creating thread 1 (id 6135459840) and will sleep for 1 seconds
+Thread 1 (id 6135459840) starting
+Thread 1 (id 6135459840) creating thread 2 (id 6136033280) and will sleep for 4 seconds
+Thread 2 (id 6136033280) starting
+Thread 2 (id 6136033280) creating thread 3 (id 6136606720) and will sleep for 6 seconds
+Thread 3 (id 6136606720) starting
+Thread 3 (id 6136606720) creating thread 4 (id 6137180160) and will sleep for 2 seconds
+Thread 4 (id 6137180160) starting
+Thread 4 (id 6137180160) [no more threads created] and will sleep for 6 seconds
+Thread 4 (id 6137180160): exiting
+Thread 3 (id 6136606720): exiting
+Thread 2 (id 6136033280): exiting
+Thread 1 (id 6135459840): exiting
+Thread 0 (id 6134886400): exiting
+** Pattern 2: All threads have exited
+--------------------------------
+Pattern 2 - Run 2
+** Pattern 2: creating 10 threads
+Parent: created thread 0
+Thread 0 (id 6093893632) starting
+Thread 0 (id 6093893632) creating thread 1 (id 6094467072) and will sleep for 6 seconds
+Thread 1 (id 6094467072) starting
+Thread 1 (id 6094467072) creating thread 2 (id 6095040512) and will sleep for 4 seconds
+Thread 2 (id 6095040512) starting
+Thread 2 (id 6095040512) creating thread 3 (id 6095613952) and will sleep for 8 seconds
+Thread 3 (id 6095613952) starting
+Thread 3 (id 6095613952) creating thread 4 (id 6096187392) and will sleep for 3 seconds
+Thread 4 (id 6096187392) starting
+Thread 4 (id 6096187392) creating thread 5 (id 6096760832) and will sleep for 5 seconds
+Thread 5 (id 6096760832) starting
+Thread 5 (id 6096760832) creating thread 6 (id 6097334272) and will sleep for 1 seconds
+Thread 6 (id 6097334272) starting
+Thread 6 (id 6097334272) creating thread 7 (id 6097907712) and will sleep for 5 seconds
+Thread 7 (id 6097907712) starting
+Thread 7 (id 6097907712) creating thread 8 (id 6098481152) and will sleep for 2 seconds
+Thread 8 (id 6098481152) starting
+Thread 8 (id 6098481152) creating thread 9 (id 6099054592) and will sleep for 6 seconds
+Thread 9 (id 6099054592) starting
+Thread 9 (id 6099054592) [no more threads created] and will sleep for 8 seconds
+Thread 9 (id 6099054592): exiting
+Thread 8 (id 6098481152): exiting
+Thread 7 (id 6097907712): exiting
+Thread 6 (id 6097334272): exiting
+Thread 5 (id 6096760832): exiting
+Thread 4 (id 6096187392): exiting
+Thread 3 (id 6095613952): exiting
+Thread 2 (id 6095040512): exiting
+Thread 1 (id 6094467072): exiting
+Thread 0 (id 6093893632): exiting
+** Pattern 2: All threads have exited
+--------------------------------
+Pattern 2 - Run 3
+** Pattern 2: creating 15 threads
+Parent: created thread 0
+Thread 0 (id 6131363840) starting
+Thread 0 (id 6131363840) creating thread 1 (id 6131937280) and will sleep for 1 seconds
+Thread 1 (id 6131937280) starting
+Thread 1 (id 6131937280) creating thread 2 (id 6132510720) and will sleep for 5 seconds
+Thread 2 (id 6132510720) starting
+Thread 2 (id 6132510720) creating thread 3 (id 6133084160) and will sleep for 3 seconds
+Thread 3 (id 6133084160) starting
+Thread 3 (id 6133084160) creating thread 4 (id 6133657600) and will sleep for 7 seconds
+Thread 4 (id 6133657600) starting
+Thread 4 (id 6133657600) creating thread 5 (id 6134231040) and will sleep for 8 seconds
+Thread 5 (id 6134231040) starting
+Thread 5 (id 6134231040) creating thread 6 (id 6134804480) and will sleep for 5 seconds
+Thread 6 (id 6134804480) starting
+Thread 6 (id 6134804480) creating thread 7 (id 6135377920) and will sleep for 8 seconds
+Thread 7 (id 6135377920) starting
+Thread 7 (id 6135377920) creating thread 8 (id 6135951360) and will sleep for 6 seconds
+Thread 8 (id 6135951360) starting
+Thread 8 (id 6135951360) creating thread 9 (id 6136524800) and will sleep for 1 seconds
+Thread 9 (id 6136524800) starting
+Thread 9 (id 6136524800) creating thread 10 (id 6137098240) and will sleep for 6 seconds
+Thread 10 (id 6137098240) starting
+Thread 10 (id 6137098240) creating thread 11 (id 6137671680) and will sleep for 7 seconds
+Thread 11 (id 6137671680) starting
+Thread 11 (id 6137671680) creating thread 12 (id 6138245120) and will sleep for 3 seconds
+Thread 12 (id 6138245120) starting
+Thread 12 (id 6138245120) creating thread 13 (id 6138818560) and will sleep for 8 seconds
+Thread 13 (id 6138818560) starting
+Thread 13 (id 6138818560) creating thread 14 (id 6139392000) and will sleep for 4 seconds
+Thread 14 (id 6139392000) starting
+Thread 14 (id 6139392000) [no more threads created] and will sleep for 8 seconds
+Thread 14 (id 6139392000): exiting
+Thread 13 (id 6138818560): exiting
+Thread 12 (id 6138245120): exiting
+Thread 11 (id 6137671680): exiting
+Thread 10 (id 6137098240): exiting
+Thread 9 (id 6136524800): exiting
+Thread 8 (id 6135951360): exiting
+Thread 7 (id 6135377920): exiting
+Thread 6 (id 6134804480): exiting
+Thread 5 (id 6134231040): exiting
+Thread 4 (id 6133657600): exiting
+Thread 3 (id 6133084160): exiting
+Thread 2 (id 6132510720): exiting
+Thread 1 (id 6131937280): exiting
+Thread 0 (id 6131363840): exiting
+** Pattern 2: All threads have exited
+--------------------------------
